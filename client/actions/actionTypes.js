@@ -1,0 +1,1 @@
+export const TOGGLE_VERIFY = 'TOGGLE_VERIFY'
